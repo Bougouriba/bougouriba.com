@@ -3,6 +3,7 @@ layout: simple
 author_profile: false
 permalink: /
 classes: wide
+title:
 ---
 ## [Explore Bougouriba Resources](http://bougouriba.net)
   * Datasets and community resources are at hosted at [Bougouriba.net](http://bougouriba.net)
